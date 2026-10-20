@@ -1,0 +1,25 @@
+TECHSUPPLY DISTRIBUTORS PVT LTD
+14 Industrial Estate, Okhla Phase II, New Delhi 110020
+GSTIN: 07AABCT1234F1Z5
+
+TAX INVOICE
+
+Invoice Number: INV-2026-0418
+Invoice Date: 2026-10-05
+Due Date: 2026-11-04
+
+Bill To:
+ShopEase Retail LLP
+22 MG Road, Bengaluru 560001
+
+Items:
+1. Wireless Earbuds Pro (EB-PRO)       Qty 10   Unit Price 1,800.00   Amount 18,000.00
+2. Bluetooth Speaker Mini (SPK-MINI)   Qty 15   Unit Price 1,100.00   Amount 16,500.00
+3. USB-C Hub 7-in-1 (HUB-7)            Qty 8    Unit Price 1,500.00   Amount 12,000.00
+
+Subtotal: 47,500.00
+GST (18%): 8,550.00
+Total Due: INR 56,050.00
+
+Payment terms: Net 30 days. Bank transfer to HDFC Bank, A/c 50200012345678, IFSC HDFC0000123.
+Late payments attract interest of 1.5% per month.
